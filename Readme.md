@@ -7,6 +7,6 @@ Here what you see are the initial setup of both of these frameworks so you can s
 * for Nuxt application:  ```npx create-nuxt-app```
 * for React application: ```npx create-next-app```
 
-I wrote an article about my opinion trying Nuxt on Medium. Feel free to leave a comment and enjoy coding! :wink:
+I wrote an article about my opinion trying Nuxt on [Medium](https://medium.com/@daniel.pacurici/next-vs-nuxt-87aa957d5967?sk=501e2a16dc63d5e798692a1087ff154e). Feel free to leave a comment and enjoy coding! :wink:
 
 Thank you! :smiley:
